@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.4
+- Add clear vector icons beside application actions while keeping Open, Install, Update, Uninstall and Update help labels visible.
+- Add matching icons and tooltips to header and maintenance controls.
+- Improve keyboard focus, accessible action names, disabled-state explanations and light/dark contrast.
+- Keep actions readable at narrow window sizes with wrapping layouts; all five app cards remain accessible.
+- Check application releases with F5.
+
 ## 0.1.3
 - Add PolyCAD to the application catalog with its owner-provided logo.
 - Discover and launch registered PolyCAD installations and offer official install/uninstall actions.

@@ -13,6 +13,10 @@ Use the official [GitHub releases](https://github.com/robertmartic/polyhub/relea
 
 Use **Theme: Light / Theme: Dark** in the header to switch immediately. Settings also includes **Dark theme**. Your choice is saved and restored when PolyHUB starts.
 
+## Actions and keyboard access
+
+Application actions use vector icons with visible labels. Hover or focus an action for its explanation; disabled actions also keep tooltips. Use Tab to navigate and Enter/Space to activate focused buttons. F5 checks application releases. Header actions and card buttons wrap at smaller widths, and the five application cards remain available by scrolling. Light/dark themes apply to icons, text and focus outlines.
+
 ## Applications
 
 PolyHUB checks each application's official per-user registration, installation marker, executable and version. Conflicting or incomplete registration is shown as Status unavailable and blocks maintenance. Portable application copies are not automatically adopted.
