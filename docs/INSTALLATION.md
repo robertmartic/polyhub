@@ -1,6 +1,6 @@
 # Installation
 
-Run PolyHUB-0.1.2-setup.exe. Setup installs for your Windows account without administrator rights. Choose a dedicated empty folder and desktop/Start menu shortcut options. The default is %LOCALAPPDATA%/Programs/PolyHUB.
+Run PolyHUB-0.1.3-setup.exe. Setup installs for your Windows account without administrator rights. Choose a dedicated empty folder and desktop/Start menu shortcut options. The default is %LOCALAPPDATA%/Programs/PolyHUB.
 
 Reinstall or upgrade with the same or a newer official setup while PolyHUB is closed. The registered directory and shortcut choices are preserved. Setup rejects downgrades and does not adopt arbitrary portable folders.
 

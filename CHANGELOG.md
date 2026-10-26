@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.3
+- Add PolyCAD to the application catalog with its owner-provided logo.
+- Discover and launch registered PolyCAD installations and offer official install/uninstall actions.
+- Delegate updates to PolyCAD 0.0.6+ while preserving its save prompts and recovery protections.
+- Show one-time upgrade guidance for older PolyCAD versions.
+- Extend the application grid to three rows so all five cards remain accessible.
+
 ## 0.1.2
 
 - Switch between light and dark themes using the visible Theme button in the header or Settings. The choice is remembered.

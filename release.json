@@ -1,6 +1,35 @@
 {
-  "DistributionRepository": "robertmartic/polyhub",
+  "Version": "0.1.3",
+  "SourceRevision": "c6415e0cd713217b6032ef502c8fbf8d94e8d547",
   "SourceRepository": "robertmartic/polyhub-source",
-  "SourceRevision": "c082ca99f21be1bc60d5e9a068c41fe01a3471e0",
-  "Version": "0.1.2"
+  "DistributionRepository": "robertmartic/polyhub",
+  "Product": "PolyHUB",
+  "Scope": "PolyCAD catalog and protected update integration",
+  "Assets": [
+    {
+      "Name": "PolyHUB-0.1.3-setup.exe",
+      "Bytes": 70393624,
+      "Sha256": "c5c55186b9f6be67788162b3cc41be1668a1c1e76c68e68532be11169d00b870"
+    },
+    {
+      "Name": "PolyHUB-0.1.3-maintenance.exe",
+      "Bytes": 567607,
+      "Sha256": "352403d4e89056d57f07a037d73b9f6b2a79abfd39e5f1231561aab55c9406f0"
+    },
+    {
+      "Name": "PolyHUB-0.1.3-win-x64.zip",
+      "Bytes": 73272550,
+      "Sha256": "e7b22829d1a3f9d633869cacf43589759536f3a94bae0990d827087f43e85468"
+    },
+    {
+      "Name": "PolyHUB-0.1.3-manifest.json",
+      "Bytes": 70581,
+      "Sha256": "5398819c1d1f3ef66e3972338f67c0fa26a957296cd21af51e8661ee017c63ae"
+    },
+    {
+      "Name": "PolyHUB-0.1.2-to-0.1.3-delta.zip",
+      "Bytes": 8169161,
+      "Sha256": "a3785cc5ec1e6364f1f5a7e56467fafc99fa86da34e305a73baf38ae0b9a4501"
+    }
+  ]
 }
