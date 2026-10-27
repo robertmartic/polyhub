@@ -29,6 +29,14 @@ Managed updates require a version with PolyHUB integration: PolyPDF 0.1.3+, Poly
 
 Only one PolyHUB maintenance operation runs at a time. If the process is interrupted, use Resume monitoring for a delegated update, or Review interrupted operation for an installer/uninstaller result. Stop monitoring pauses only PolyHUB observation; the application continues its own update and the operation remains recorded. Review checks the current state and does not repair or replace files. Keep application backup folders when recovery is needed.
 
+## Update several applications
+
+Choose **Check app updates**, then select **Include in update queue** on each eligible application, or use **Select available**. Choose **Update selected**, review installed and target versions, and choose **Start queue**. Applications run sequentially through their own updaters; finish any confirmation or save prompts in that application.
+
+Before each handoff, PolyHUB checks the installation and official release again. Changed versions or packages, unavailable checks, cancellations, failures and unconfirmed results stop the queue. **Queue results** shows each outcome, including applications that were not started.
+
+**Stop queue** stops monitoring and prevents the remaining applications from starting. An active application update may continue; use its own updater to cancel it. Resume monitoring or review a recorded operation before starting another. Queues are not saved or resumed automatically after restarting PolyHUB. Check app updates and select remaining applications again.
+
 ## Privacy and terms
 
 Free to use. No required account, subscription, activation or telemetry. Release checks and downloads contact the official GitHub channels. Documents and photos are not uploaded. SHA-256 checks integrity using the official GitHub release digests; it is not a separate digital signature. Packages are not code-signed.

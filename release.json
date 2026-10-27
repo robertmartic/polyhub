@@ -1,6 +1,6 @@
 {
   "DistributionRepository": "robertmartic/polyhub",
-  "Version": "0.1.4",
+  "Version": "0.2.0",
   "SourceRepository": "robertmartic/polyhub-source",
-  "SourceRevision": "5cf1ed6a7f3338e816f5f7a83932b4a521f691a7"
+  "SourceRevision": "60dc0c6b8453682c54a68698061f1825e80292ab"
 }

@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0
+
+- Select several applications with available updates, review their target versions, and update them one at a time.
+- Each application keeps its own updater, download controls and document save prompts.
+- The queue rechecks installation and official release identities before each update, and stops on cancellation, failure or an unconfirmed result.
+- Stop queue prevents remaining updates and stops monitoring; an active application update can continue and remains available for monitoring or review.
+- Review per-application results from the last queue. Remaining applications require a new selection; queues never restart automatically.
+
 ## 0.1.4
 - Add clear vector icons beside application actions while keeping Open, Install, Update, Uninstall and Update help labels visible.
 - Add matching icons and tooltips to header and maintenance controls.
