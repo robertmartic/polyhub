@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.1
+
+- PolyHUB and application release checks now use signed official PolyStudio update channels.
+- Application installation packages come from the official PolyStudio download server.
+- Update information and downloads are verified against trusted signing keys, exact application/version identities, package sizes and SHA-256 hashes.
+- Application save prompts, sequential update queues and interrupted-operation monitoring remain available.
+
 ## 0.2.0
 
 - Select several applications with available updates, review their target versions, and update them one at a time.

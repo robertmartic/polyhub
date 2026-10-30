@@ -1,6 +1,37 @@
 {
-  "DistributionRepository": "robertmartic/polyhub",
-  "Version": "0.2.0",
-  "SourceRepository": "robertmartic/polyhub-source",
-  "SourceRevision": "60dc0c6b8453682c54a68698061f1825e80292ab"
+  "Version": "0.2.1",
+  "BuildProvenance": "943541781e9d43deb0f8de496668d279",
+  "Channel": "https://updates.polystudio.tools/polyhub/stable.json",
+  "Assets": [
+    {
+      "Name": "PolyHUB-0.2.1-setup.exe",
+      "Bytes": 70427468,
+      "Sha256": "55974b788916438b2b9a26eb8a00500ee92cab9c4df650ddbde7a62c0d9d5195",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-setup.exe"
+    },
+    {
+      "Name": "PolyHUB-0.2.1-maintenance.exe",
+      "Bytes": 567606,
+      "Sha256": "ab89c620444aaf0876e9b85a77f3a552937457028ed0fb241e4b999adf839436",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-maintenance.exe"
+    },
+    {
+      "Name": "PolyHUB-0.2.1-win-x64.zip",
+      "Bytes": 73302354,
+      "Sha256": "b38ca05cc183655f6dd54ec003da4399d2e98bfea15bac9438f4be4d374ac5b1",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-win-x64.zip"
+    },
+    {
+      "Name": "PolyHUB-0.2.1-manifest.json",
+      "Bytes": 70581,
+      "Sha256": "7edee767f12d0ce58bc2781618c5b99c509d831e2810d908cf41b162df6bba9a",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-manifest.json"
+    },
+    {
+      "Name": "PolyHUB-0.2.0-to-0.2.1-delta.zip",
+      "Bytes": 8198379,
+      "Sha256": "237f6ed8a773968cce164ed2b221d44cf3904865021fe9cc2d2cf62c488e21ca",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.0-to-0.2.1-delta.zip"
+    }
+  ]
 }

@@ -4,7 +4,7 @@ Your Poly application workspace for Windows. Browse, launch and maintain PolyPDF
 
 ## Download
 
-Use the official [GitHub releases](https://github.com/robertmartic/polyhub/releases). Windows x64, Windows 10 build 19041 or newer / Windows 11. Self-contained packages include .NET; no separate runtime installation is needed.
+Download the official [PolyHUB 0.2.1 setup](https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-setup.exe) or [portable ZIP](https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-win-x64.zip). Windows x64, Windows 10 build 19041 or newer / Windows 11. Self-contained packages include .NET; no separate runtime installation is needed.
 
 - Setup: conventional installation for your Windows account, with optional desktop and Start menu shortcuts.
 - Portable ZIP: extract the entire PolyHUB folder and run PolyHUB.exe. PolyHUB self-replacement requires a registered installation.
@@ -39,7 +39,9 @@ Before each handoff, PolyHUB checks the installation and official release again.
 
 ## Privacy and terms
 
-Free to use. No required account, subscription, activation or telemetry. Release checks and downloads contact the official GitHub channels. Documents and photos are not uploaded. SHA-256 checks integrity using the official GitHub release digests; it is not a separate digital signature. Packages are not code-signed.
+Free to use. No required account, subscription, activation or telemetry. Release checks contact updates.polystudio.tools and downloads use downloads.polystudio.tools. Documents and photos are not uploaded. Update metadata is signed with trusted PolyStudio keys; exact package URLs, sizes and SHA-256 hashes are verified. Windows executable packages are not Authenticode-signed.
 
 See LICENSE, THIRD-PARTY-NOTICES.txt and licenses/ for software terms and retained third-party and legacy MIT permissions. Private source and developer artifacts are not distributed.
 PolyCAD requires PolyHUB 0.1.3+ and PolyCAD 0.0.6+ for delegated updates. Earlier PolyCAD versions remain detectable and launchable, with one-time integration guidance. CAD save prompts and recovery stay in PolyCAD.
+
+PolyHUB 0.2.0 clients can receive the one-time 0.2.1 bridge through their existing updater. From 0.2.1 onward, PolyHUB and its application catalog check the signed PolyStudio channels without depending on GitHub API rate limits.
