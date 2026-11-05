@@ -4,7 +4,7 @@ Your Poly application workspace for Windows. Browse, launch and maintain PolyPDF
 
 ## Download
 
-Download the official [PolyHUB 0.2.1 setup](https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-setup.exe) or [portable ZIP](https://downloads.polystudio.tools/polyhub/0.2.1/PolyHUB-0.2.1-win-x64.zip). Windows x64, Windows 10 build 19041 or newer / Windows 11. Self-contained packages include .NET; no separate runtime installation is needed.
+Download the official [PolyHUB 0.3.0 setup](https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.3.0-setup.exe) or [portable ZIP](https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.3.0-win-x64.zip). Windows x64, Windows 10 build 19041 or newer / Windows 11. Self-contained packages include .NET; no separate runtime installation is needed.
 
 - Setup: conventional installation for your Windows account, with optional desktop and Start menu shortcuts.
 - Portable ZIP: extract the entire PolyHUB folder and run PolyHUB.exe. PolyHUB self-replacement requires a registered installation.
@@ -19,7 +19,7 @@ Application actions use vector icons with visible labels. Hover or focus an acti
 
 ## Applications
 
-PolyHUB checks each application's official per-user registration, installation marker, executable and version. Conflicting or incomplete registration is shown as Status unavailable and blocks maintenance. Portable application copies are not automatically adopted.
+PolyHUB checks each application's official per-user registration, installation marker, executable and version. Conflicting or incomplete registration is shown as Status unavailable and blocks maintenance. Use **Portable apps > Add portable folder** to add an extracted official portable ZIP. Select the folder containing the application executable and its manifest. Each saved copy shows its version and path. **Open** launches that copy. **Remove from list** keeps the folder and its files. Portable entries are launch shortcuts with manual updates.
 
 Release-check errors are shown separately from installation problems. A cached version is labelled last known and dated; it never enables an update after a failed check. Conflicting Windows/app-file versions are shown as unverified and maintenance stays blocked.
 

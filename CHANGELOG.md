@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0
+
+- Add extracted portable copies of PolyPDF, PolyWriter, PolySheet, PolyPhoto and PolyCAD to a saved library.
+- Identify each portable copy by application, version and folder path. Open the selected copy or remove its entry while keeping the folder and its files.
+
 ## 0.2.1
 
 - PolyHUB and application release checks now use signed official PolyStudio update channels.
