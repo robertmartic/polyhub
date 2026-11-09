@@ -1,38 +1,38 @@
 {
   "Format": 1,
-  "Version": "0.3.0",
-  "BuildProvenance": "eaaa4094a669428d82560317ae68e432",
+  "Version": "0.4.0",
+  "BuildProvenance": "3118538682094427afc496973dcd6b1e",
   "Channel": "https://updates.polystudio.tools/polyhub/stable.json",
   "Assets": [
     {
-      "Name": "PolyHUB-0.3.0-setup.exe",
-      "Bytes": 70433508,
-      "Sha256": "9a706d707dc62fb7a7b3d6e7ac8506fa68911412a21b1084aaade49e10f5051d",
-      "Url": "https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.3.0-setup.exe"
+      "Name": "PolyHUB-0.4.0-setup.exe",
+      "Bytes": 70443969,
+      "Sha256": "7c8d60c6b90286dd064f11b4493203eed6148b165141480c6db7449e9f2a2b56",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.4.0-setup.exe"
     },
     {
-      "Name": "PolyHUB-0.3.0-maintenance.exe",
-      "Bytes": 567608,
-      "Sha256": "cdaa38610802180bb268440a35c17722faf313c1835f96dbce7263deab2f1562",
-      "Url": "https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.3.0-maintenance.exe"
+      "Name": "PolyHUB-0.4.0-maintenance.exe",
+      "Bytes": 567607,
+      "Sha256": "94179f96a33040a9967697fb48dee5ba059dd8c34af01b48ece8da4dfde6b99f",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.4.0-maintenance.exe"
     },
     {
-      "Name": "PolyHUB-0.3.0-win-x64.zip",
-      "Bytes": 73309501,
-      "Sha256": "4d294d45bca9d7cb244b721082d391f64002bbbf3af82f4a2b5dbbc2466aff7f",
-      "Url": "https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.3.0-win-x64.zip"
+      "Name": "PolyHUB-0.4.0-win-x64.zip",
+      "Bytes": 73321730,
+      "Sha256": "c17f5d444a26f7a348bd54d658997c4382d1f954649d20018465a4175a9eb8e7",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.4.0-win-x64.zip"
     },
     {
-      "Name": "PolyHUB-0.3.0-manifest.json",
+      "Name": "PolyHUB-0.4.0-manifest.json",
       "Bytes": 70581,
-      "Sha256": "9e01316ea78e09d67cb467f4498a1cf7210f01f84c5da704d0a0356ec5477d0f",
-      "Url": "https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.3.0-manifest.json"
+      "Sha256": "74cafa419b7f51060b661fadddd70b0999e293af572290b1b88032d23bf3517d",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.4.0-manifest.json"
     },
     {
-      "Name": "PolyHUB-0.2.1-to-0.3.0-delta.zip",
-      "Bytes": 8205521,
-      "Sha256": "264bcbbe5a569003efb268163cdb588b276ab0d0e5f40f9391856af38fa97644",
-      "Url": "https://downloads.polystudio.tools/polyhub/0.3.0/PolyHUB-0.2.1-to-0.3.0-delta.zip"
+      "Name": "PolyHUB-0.3.0-to-0.4.0-delta.zip",
+      "Bytes": 8217758,
+      "Sha256": "d23e9a0b8aa3819fd7a71e9fb416361f70a911366200510ecb3ea6d59947967e",
+      "Url": "https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.3.0-to-0.4.0-delta.zip"
     }
   ]
 }

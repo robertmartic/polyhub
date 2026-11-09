@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0
+
+- Follow each application in the update queue, review the last queue after restarting, and select eligible updates that did not start.
+- Review installation details and official repair steps, or locate a new folder for a moved portable copy.
+- Review saved maintenance outcomes and preview a diagnostic report before saving it.
+- Find applications with search, sorting, filters and a compact view. Ctrl+F focuses search.
+
 ## 0.3.0
 
 - Add extracted portable copies of PolyPDF, PolyWriter, PolySheet, PolyPhoto and PolyCAD to a saved library.
