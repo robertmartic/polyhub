@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0
+
+- A redesigned workspace with dedicated navigation for applications, portable copies, activity, settings and About.
+- Graphite and porcelain themes with clearer typography, status labels and consistent action styles.
+- A single-column catalog at narrower widths and a dedicated status panel for maintenance progress.
+- Refined settings, update screens, confirmations, reports and tooltips with clearer keyboard focus.
+
 ## 0.4.0
 
 - Follow each application in the update queue, review the last queue after restarting, and select eligible updates that did not start.

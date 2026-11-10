@@ -4,18 +4,18 @@ Your Poly application workspace for Windows. Browse, launch and maintain PolyPDF
 
 ## Download
 
-Download the official [PolyHUB 0.4.0 setup](https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.4.0-setup.exe) or [portable ZIP](https://downloads.polystudio.tools/polyhub/0.4.0/PolyHUB-0.4.0-win-x64.zip). Windows x64, Windows 10 build 19041 or newer / Windows 11. Self-contained packages include .NET; no separate runtime installation is needed.
+Download the official [PolyHUB 0.5.0 setup](https://downloads.polystudio.tools/polyhub/0.5.0/PolyHUB-0.5.0-setup.exe) or [portable ZIP](https://downloads.polystudio.tools/polyhub/0.5.0/PolyHUB-0.5.0-win-x64.zip). Windows x64, Windows 10 build 19041 or newer / Windows 11. Self-contained packages include .NET; no separate runtime installation is needed.
 
 - Setup: conventional installation for your Windows account, with optional desktop and Start menu shortcuts.
 - Portable ZIP: extract the entire PolyHUB folder and run PolyHUB.exe. PolyHUB self-replacement requires a registered installation.
 
 ## Appearance
 
-Use **Theme: Light / Theme: Dark** in the header to switch immediately. Settings also includes **Dark theme**. Your choice is saved and restored when PolyHUB starts.
+Use **Theme: Light / Theme: Dark** in the sidebar to switch immediately. Settings also includes **Use graphite theme**. Your choice is saved and restored when PolyHUB starts.
 
 ## Actions and keyboard access
 
-Application actions use vector icons with visible labels. Hover or focus an action for its explanation; disabled actions also keep tooltips. Use Tab to navigate and Enter/Space to activate focused buttons. F5 checks application releases. Header actions and card buttons wrap at smaller widths, and the five application cards remain available by scrolling. Light/dark themes apply to icons, text and focus outlines.
+Application actions use vector icons with visible labels. Hover or focus an action for its explanation; disabled actions also keep tooltips. Use Tab to navigate and Enter/Space to activate focused buttons. F5 checks application releases. Card actions wrap as needed. The catalog switches to one column in a narrower window and the five application cards remain available by scrolling. Light/dark themes apply to icons, text and focus outlines.
 
 Use Ctrl+F to focus search. Filter the catalog by installed apps, available updates or portable copies. Name sorting and Compact view apply to the current catalog or portable library. Use **Activity history** to view saved outcomes and preview a local diagnostic report.
 
